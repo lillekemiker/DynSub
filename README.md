@@ -1,4 +1,4 @@
-# {{REPO_NAME}}
+# DynSub
 
 ## Installation
 
